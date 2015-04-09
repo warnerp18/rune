@@ -37,7 +37,7 @@ projects[adminimal_admin_menu][subdir] = "contrib"
 projects[auto_entitylabel][version] = "1.3"
 projects[auto_entitylabel][subdir] = "contrib"
 
-projects[better_exposed_filters][version] = "3.0"
+projects[better_exposed_filters][version] = "3.2"
 projects[better_exposed_filters][subdir] = "contrib"
 
 projects[better_formats][version] = "1.0-beta1"
@@ -176,7 +176,7 @@ projects[imagecache_token][subdir] = "contrib"
 projects[imce][version] = "1.9"
 projects[imce][subdir] = "contrib"
 
-projects[imce_filefield][version] = "1.0"
+projects[imce_filefield][version] = "1.1"
 projects[imce_filefield][subdir] = "contrib"
 
 projects[inline_entity_form][version] = "1.5"
@@ -191,7 +191,7 @@ projects[jquery_update][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
 projects[job_scheduler][subdir] = "contrib"
 
-projects[lang_dropdown][version] = "1.5"
+projects[lang_dropdown][version] = "2.5"
 projects[lang_dropdown][subdir] = "contrib"
 
 projects[leaflet][version] = "1.1"
