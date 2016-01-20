@@ -22,6 +22,7 @@ dependencies:
   - image
   - menu_link_content
   - menu_ui
+  - metatag
   - node
   - options
   - page_cache
