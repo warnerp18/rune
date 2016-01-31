@@ -4,11 +4,14 @@ description: 'An opinionated install profile focused on developer happiness.'
 core: 8.x
 
 dependencies:
+  - admin_toolbar
+  - admin_toolbar_tools
   - block
   - block_content
   - breakpoint
   - ckeditor
   - color
+  - composer_manager
   - config
   - contextual
   - datetime
