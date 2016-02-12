@@ -30,6 +30,7 @@ dependencies:
   - options
   - page_cache
   - path
+  - pathauto
   - quickedit
   - responsive_image
   - rdf
