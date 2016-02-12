@@ -5,7 +5,7 @@ api = 2
 ; Core
 ; Modules
 projects[admin_toolbar][subdir] = "contrib"
-projects[admin_toolbar][version] = "1.11"
+projects[admin_toolbar][version] = "1.14"
 
 projects[composer_manager][subdir] = "contrib"
 projects[composer_manager][branch] = "1.x-dev"
@@ -23,7 +23,7 @@ projects[entity_reference_revisions][subdir] = "contrib"
 projects[entity_reference_revisions][version] = "1.0-rc4"
 
 projects[metatag][subdir] = "contrib"
-projects[metatag][version] = "1.0-beta3"
+projects[metatag][version] = "1.0-beta4"
 
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.0-alpha1"
