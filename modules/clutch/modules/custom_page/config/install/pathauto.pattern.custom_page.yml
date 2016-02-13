@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - custom_page
+id: custom_page
+label: 'Custom Page'
+type: 'canonical_entities:custom_page'
+pattern: '[custom_page:name]'
+selection_criteria: {  }
+selection_logic: and
+weight: 0
+context_definitions: {  }
