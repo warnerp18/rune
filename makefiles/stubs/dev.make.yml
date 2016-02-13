@@ -10,5 +10,5 @@ projects:
     subdir: ~
     download:
       url: https://github.com/poetic/rune.git
-      branch: 8.x
+      branch: clutch
       working-copy: true
