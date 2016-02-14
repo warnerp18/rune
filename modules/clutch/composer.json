@@ -10,5 +10,7 @@
     "issues": "http://drupal.org/project/issues/clutch",
     "source": "http://cgit.drupalcode.org/clutch"
   },
-  "require": { }
+  "require": {
+    "wa72/htmlpagedom": "^1.2"
+  }
 }
