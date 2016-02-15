@@ -1,9 +1,3 @@
-langcode: en
-status: true
-dependencies:
-  module:
-    - metatag
-    - custom_page
 id: custom_page
 label: 'Custom Page'
 tags:
