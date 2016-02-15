@@ -43,6 +43,7 @@ dependencies:
   - views
   - views_ui
   - component
+  - custom_page
   #- webform # disabled until it gets more stable and doesn't cause the test suite to fail
 themes:
   - classy
