@@ -22,8 +22,3 @@ function clutch_help($route_name, RouteMatchInterface $route_match) {
     default:
   }
 }
-
-function clutch_install() {
-  // need to resave again to activate pathauto for custom page
-  entity_load('pathauto_pattern', 'custom_page')->save();
-}
