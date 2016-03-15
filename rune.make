@@ -621,7 +621,7 @@ libraries[mailchimp][type] = "library"
 libraries[openid-selector][download][type] = "get"
 libraries[openid-selector][download][url] = "http://openid-selector.googlecode.com/files/openid-selector-1.3.zip"
 libraries[openid-selector][directory_name] = "libraries"
-libraries[openid-selector][destination] = "../../../sites/all/libraries/"
+libraries[openid-selector][destination] = "../../../sites/all/libraries"
 libraries[openid-selector][type] = "library"
 
 libraries[owlcarousel][download][type] = "get"
